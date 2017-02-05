@@ -1,0 +1,4 @@
+bestLink:scakworld;rssi:-36dBm;bestLink:scakworld;rssi:-36dBm;transfer:0.02s;NoPcks:1;NoTrnmts:1;NoRetrnmts:0:ErrRate:0.0;FleSize:179bytes;status:True
+bestLink:scakworld;rssi:-39dBm;transfer:0.0s;NoPcks:1;NoTrnmts:1;NoRetrnmts:0:ErrRate:0.0;FleSize:180bytes;status:True
+bestLink:scakworld;rssi:-39dBm;transfer:9.66s;NoPcks:49;NoTrnmts:1;NoRetrnmts:48:ErrRate:97.9591836735;FleSize:180bytes;status:True
+bestLink:scakworld;rssi:-39dBm;transfer:3.47s;NoPcks:18;NoTrnmts:1;NoRetrnmts:17:ErrRate:94.4444444444;FleSize:180bytes;status:True
